@@ -48,7 +48,7 @@ All contributions will be credited appropriately.
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/scholar-meet-hub.git
+git clone https://github.com/avanishrai30/scholar-meet-hub.git
 cd scholar-meet-hub
 ```
 
